@@ -1,0 +1,12 @@
+(x)Should include several (>3) components
+(x)Should use props to pass data between the components
+(x)Should be structured correctly (components, containers, menu/Menu.jsx, menu/Menu.css)
+(x)Should be implemented in modern favor: const MyApp=(props)=>
+(x)Should only use functional component and hooks
+()Should have unit test (>3) to test components
+(x)Should fetch some data from RESTful backend (like Firebase)
+(x)Source code should be in git.vamk.fi
+(x)Should run by npm i, npm start, npm run build, firebase deploy
+(x)Should have some menu navigation
+(x)Should have some input fields
+(x)The app should be deployd (to Firebase, public_html,...)
